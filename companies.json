@@ -1,0 +1,90 @@
+{
+    "companies": [
+        {
+            "name": "ABC Corporation",
+            "departments": {
+                "sales": {
+                    "employees": [
+                        {
+                            "id": 1,
+                            "name": "John Doe",
+                            "position": "Manager"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Jane Smith",
+                            "position": "Representative"
+                        }
+                    ]
+                },
+                "engineering": {
+                    "employees": [
+                        {
+                            "id": 3,
+                            "name": "Mark Johnson",
+                            "position": "Lead Engineer"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Sarah Williams",
+                            "position": "Software Developer"
+                        }
+                    ]
+                }
+            },
+            "projects": {
+                "projectA": {
+                    "name": "Project A",
+                    "status": "In Progress"
+                },
+                "projectB": {
+                    "name": "Project B",
+                    "status": "Completed"
+                }
+            }
+        },
+        {
+            "name": "XYZ Corporation",
+            "departments": {
+                "marketing": {
+                    "employees": [
+                        {
+                            "id": 5,
+                            "name": "Michael Brown",
+                            "position": "Marketing Manager"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Emily Davis",
+                            "position": "Marketing Specialist"
+                        }
+                    ]
+                },
+                "finance": {
+                    "employees": [
+                        {
+                            "id": 7,
+                            "name": "Andrew Wilson",
+                            "position": "Finance Director"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Olivia Thompson",
+                            "position": "Financial Analyst"
+                        }
+                    ]
+                }
+            },
+            "projects": {
+                "projectC": {
+                    "name": "Project C",
+                    "status": "In Progress"
+                },
+                "projectD": {
+                    "name": "Project D",
+                    "status": "Completed"
+                }
+            }
+        }
+    ]
+}
